@@ -1,7 +1,7 @@
 {
-  "name": "user-import-service",
+  "name": "node-assignment-fdm",
   "version": "1.0.0",
-  "description": "Mini-service for Excel user import with MongoDB, Express, Swagger, Logging, and Validation",
+  "description": "node-assignment-fdm",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

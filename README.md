@@ -24,6 +24,7 @@ Create a `.env` file in the root directory:
 add this data in your .env
 
 PORT=5000
+
 MONGO_URI=mongodb://localhost:27017/node-assignment-fdm
 
 ---
